@@ -1,3 +1,3 @@
 # Hello,
-I'm MAngi Lal. <br>
+I'm Mangi Lal. <br>
 This is my Portfolio
